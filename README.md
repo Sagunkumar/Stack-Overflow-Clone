@@ -18,4 +18,4 @@ Install Dependencies using the command
   npm install
 
  # 'Start App using the command'
-  npn start
+  npm start
